@@ -24,18 +24,15 @@ de la Régie de l’énergie du Canada.
 2. Contactez-nous
 -----------------
 
-Si vous avez des questions techniques relatives à une activité de
-réhabilitation en particulier que vous avez déjà signalée dans le SSEL,
-veuillez envoyer un courriel à remediation@rec-cer.gc.ca. Votre demande
-de renseignements sera transmise à l’analyste de l’environnement de la
-Régie affecté à votre activité de réhabilitation.
+Si vous avez des questions techniques liées à un événement REM spécifique que vous avez
+déjà signalé dans OERS, veuillez vous rendre à l'événement en utilisant le lien envoyé par
+le système et utilisez la fonction «Envoyer un message au CER». Cela dirigera
+votre demande à l'analyste environnemental CER affecté à votre événement REM.
 
-Ce guide couvre les principales fonctions liées aux activités de
-réhabilitation dans le SSEL. Si vous avez de la difficulté à déposer un
-avis de contamination ou que vous ne trouvez pas l’information dont vous
-avez besoin dans le présent guide, veuillez envoyer un courriel à
-remediation@rec-cer.gc.ca. Un membre du personnel de la Régie vous
-répondra dans un délai d’un jour ouvrable.
+
+Si vous rencontrez des difficultés pour soumettre un CNO ou si vous ne trouvez pas les informations que vous
+nécessaire dans ce manuel, veuillez envoyer un courriel à DLERSSupport@cer-rec.gc.ca. Personnel CER
+répondra dans un délai d'un jour ouvrable.
 
 3. Abréviations
 ---------------

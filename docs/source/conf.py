@@ -20,8 +20,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'ORCA Docs French'
-copyright = '2020, Canada Energy Regulator'
-author = 'Canada Energy Regulator'
+copyright = '2020, Régie de l’énergie du Canada'
+author = 'Régie de l’énergie du Canada'
 
 # The short X.Y version
 version = ''

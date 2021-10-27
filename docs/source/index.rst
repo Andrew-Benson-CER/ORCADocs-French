@@ -6,3 +6,4 @@ Signaler les événements de correction
 
    FrenchRemUser
    ContraventionsFrench
+   CMSFrench
